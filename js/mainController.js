@@ -1,0 +1,1 @@
+angular.module("myApp",[]).controller("myController",["$scope",function(a){a.arry=[{name:"Charlie Baker",job:"fisherman",status:!0},{name:"Danny Wiser",job:"dish washer",status:!1},{name:"Umi Shikozky",job:"construction worker",status:!1},{name:"Sizner Kovrae",job:"fisherman",status:!1},{name:"Flora Winger",job:"flight attendant",status:!1}]}]);
